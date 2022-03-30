@@ -2,6 +2,7 @@
 @mylenebiddle
 @lakshmanok
 @brahmsan
+@Bate90
 
 # Order is important. The last matching pattern has the most precedence.
 /quests/*               @mylenebiddle
